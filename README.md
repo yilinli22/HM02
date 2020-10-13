@@ -1,4 +1,4 @@
-# HM02: Visualizing interesting datasets
+# HM02: Visualizing Interesting Datasets
 This is the Homework02 task for CSCI40 at CMC. Go to the [project page](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02).
 ## Graph 1. Nobel Prizes in Countries
 ![Figure_1](https://user-images.githubusercontent.com/70351653/95695116-5f0ef280-0bea-11eb-920f-9daf7451c84a.png)  
